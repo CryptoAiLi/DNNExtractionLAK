@@ -1,0 +1,5 @@
+numpy~=2.1.2
+torch~=2.7.0
+scipy~=1.15.3
+tqdm>=4.66,<5
+networkx>=3,<4
